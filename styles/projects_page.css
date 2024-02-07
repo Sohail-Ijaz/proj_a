@@ -1,0 +1,39 @@
+.projects_heading{
+    font-size: 3rem;
+    text-align: center;
+    padding: 2rem;
+}
+.projects_display{
+    
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 70%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.show_box{
+    
+    height: 70%;
+    width: 40%;
+    border-radius: 1rem;
+    transition: all .3s;
+    background-color: #313030;
+}
+.show_box:hover{
+    transform: scale(110%);
+}
+.proj_a{
+    background-image: url(/calculator.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+h3{
+    font-size: 6rem;
+}
+.proj_b{
+    display: grid;
+    place-items: center;
+}
