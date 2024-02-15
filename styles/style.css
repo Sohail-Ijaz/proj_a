@@ -25,7 +25,9 @@ a:hover {
 body{
   margin: 0;
 }
-
+#main{
+  padding: 5rem;
+}
 h1
  {
   font-size: 15rem;

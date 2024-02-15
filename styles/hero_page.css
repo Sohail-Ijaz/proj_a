@@ -7,3 +7,35 @@
 .hero_heading{
     position: relative;
 }
+
+
+@media (max-width: 1440px) {
+    .hero_heading{
+        font-size: 10rem;
+    }
+}
+@media (max-width: 1024px) {
+    .hero_heading{
+        font-size: 8rem;
+    }
+}
+@media (max-width: 768px) {
+    .hero_heading{
+        font-size: 17vw;
+    }
+}
+@media (max-width: 425px) {
+    .hero_heading{
+        font-size: 3rem;
+    }
+}
+@media (max-width: 375px) {
+    .hero_heading{
+        font-size: 2rem;
+    }
+}
+@media (max-width: 320px) {
+    .hero_heading{
+        font-size: 1.5rem;
+    }
+}

@@ -33,7 +33,10 @@
 h3{
     font-size: 6rem;
 }
+
 .proj_b{
-    display: grid;
-    place-items: center;
+    background-image: url(/blackjack_proj.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    
 }
